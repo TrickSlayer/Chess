@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d20e35cf-583c-497a-b5e5-6a1e5faf5efa": {
+      "ProjectGuid": "d20e35cf-583c-497a-b5e5-6a1e5faf5efa",
+      "DisplayName": "Chess",
+      "ColorIndex": 0
+    },
+    "d477815b-6d98-45e2-aff3-b5a8077725cd": {
+      "ProjectGuid": "d477815b-6d98-45e2-aff3-b5a8077725cd",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

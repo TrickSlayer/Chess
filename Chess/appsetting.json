@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "ApDbConStr": "Server=HOANGDAT; database=Chess; user=sa; password=12345678"
+  }
+}
